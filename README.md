@@ -50,7 +50,7 @@ Add images and other contents using CSS record a screenshot of it
             margin-right: auto;
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: url('/static/images/bg2.jpg');
+            background-image: url('/static/images/cover.jpg');
             background-size: cover;
         }
         .toptext{
@@ -93,7 +93,7 @@ Add images and other contents using CSS record a screenshot of it
             left:330px;
         }
         .edition{
-            color:red;
+            color:rgb(0, 0, 0);
             font-size: medium;
             font-family: Verdana;
             position:relative;
@@ -123,7 +123,7 @@ Add images and other contents using CSS record a screenshot of it
                 EXPERT INSIGHT
             </div>
             <div class="tophr">
-                <hr style="color: red;">
+                <hr style="color: white;">
             </div>
             <div class="booktitle">
                 <h1>Responsive Web Design With HTML5 and CSS</h1></div>
@@ -131,19 +131,19 @@ Add images and other contents using CSS record a screenshot of it
                 Develop future-proof responsive websites using the latest HTML5 and CSS Techniques
             </div>
             <div class="photo">
-                <img src="/static/images/lab06.jpg" height="130" width="145">
+                <img src="/static/images/h1.jpg" height="130" width="145">
             </div>
             <div class="id">
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>KANISHKAR M</b></p>
+               <p><b>Tristan Tate</b></p>
             </div>
             <div class="publisher">
                 Packt>
             </div>
             <div class="edition">
-                <b>First Edition</b>
+                <b>Third Edition</b>
             </div>
             
         </div>
@@ -155,10 +155,12 @@ Add images and other contents using CSS record a screenshot of it
 
 ### Server :
 
+![image](https://github.com/PSriVarshan/cover-page-design/assets/114944059/e6da252c-8b79-4652-918d-50fa96b31bf4)
 
-### Client :
 
+### Cover Page  :
 
+![image](https://github.com/PSriVarshan/cover-page-design/assets/114944059/c2939040-867f-4ea8-868a-f74a973f2117)
 
 
 ## Result:
